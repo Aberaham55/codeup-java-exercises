@@ -1,16 +1,24 @@
 import java.sql.SQLOutput;
 
-public class HelloWorld {
+//public class HelloWorld {
+//
+//
+//    public static void main(String[] args){
+//int sum = 0;
+//    for (int i =0; i < 10; i++){
+//        sum = sum + i;
+//    }
+//        System.out.println(sum);
 
-    public static void main(String[] args){
-        int x = 4;
-        x = x + 5;
-        System.out.println(x);
+
+//        int x = 4;
+//        x = x + 5;
+//        System.out.println(x);
 //        int myFavoriteNumber = 20;
 //        System.out.println(myFavoriteNumber);
-        String myString = "My favorite number is";
+//        String myString = "My favorite number is";
 //        System.out.println(myString);
-        long myNumber = 123L;
+//        long myNumber = 123L;
 //        System.out.println(myNumber);
 //        int x = 5;
 //        System.out.println(x++);
@@ -36,7 +44,7 @@ public class HelloWorld {
 //        } else {
 //            System.out.println(name + "is mean");
 //        }
-    }
+//    }
 
 
-}
+//}
