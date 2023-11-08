@@ -1,3 +1,5 @@
+package People;
+
 public class Person {
     private String name;
 
@@ -5,7 +7,7 @@ public class Person {
         this.name = name;
     }
 
-    public String getName() {
+    public  String getName() {
         return name;
     }
 
